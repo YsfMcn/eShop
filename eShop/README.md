@@ -1,2 +1,0 @@
-# eShop
-online shopping website
